@@ -9,10 +9,10 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=3AshiSoJ#0H9d1UU2UIRv3cAGXpsmkvX0GD4IhQGlPMoYKh0NdoI"
         },
     "OWNER_NUMBER": {
-            "description": "Type Your Number Here",
+            "description": "+923423071137",
             "required": true,
             "value": ""
         }
